@@ -1,3 +1,5 @@
+paddlepaddle-gpu
+paddleocr>=2.6
 shapely
 scikit-image
 imgaug
